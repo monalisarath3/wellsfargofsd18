@@ -11,7 +11,7 @@
 <jsp:include page="header.jsp"/>
 <hr/>
 <div>
-	<a href="user?action=newuser"><button>Create Corona Kit</button></a>
+	<a href="newuser"><button>Create Corona Kit</button></a>
 </div>
 <hr/>
 

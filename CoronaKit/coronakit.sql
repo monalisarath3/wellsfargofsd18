@@ -23,8 +23,7 @@ INSERT INTO productMaster VALUES
 CREATE TABLE kit(
 	id int PRIMARY KEY auto_increment,
 	kitid int not null,
-	product varchar(50) not null,
+	productid int not null,
 	quantity int not null,
 	price int not null
-	
-);
+	);
